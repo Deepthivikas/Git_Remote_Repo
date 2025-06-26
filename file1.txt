@@ -1,0 +1,35 @@
+this is the develope phase for file menu
+{
+---------
+}
+
+this is the development phase for home menu
+{
+------------
+}
+added new features to the file menu
+{
+-----------
+}
+adding new features to the home menu
+{
+-------------
+}
+adding 2nd feature to file menu
+{
+------
+}
+adding 2nd feature to the home menu
+{
+--------
+}
+
+fixing bug in the app version1.0
+
+started working on version2
+
+
+
+lock applied by some user
+
+lock is released by user
