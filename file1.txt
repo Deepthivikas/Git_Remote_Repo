@@ -33,3 +33,5 @@ started working on version2
 lock applied by some user
 
 lock is released by user
+
+changes done in local repository after clone
